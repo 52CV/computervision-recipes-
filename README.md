@@ -22,39 +22,40 @@
 computervision-recipes 库使用 PyTorch  Fast.ai 开发，提供了丰富的 Jupyter notebooks 手把手样例，方便学术研究和工程开发，即使是对计算机视觉了解甚少的人也可以很快上手。
 
 
-### 图像分类，支持单目标和多目标分类：
+### 1、图像分类，支持单目标和多目标分类：
 
 ![demo image](image/1.png)
 
-### 图像相似度计算，在图像库中找到相似性高的物体，可用于图像检索：
+### 2、图像相似度计算，在图像库中找到相似性高的物体，可用于图像检索：
 ![demo image](image/2.png)
 
 BMVC 2019 论文 Classification is a Strong Baseline for Deep Metric Learning 效果
 
-### 目标检测，支持Faster RCNN 和Mask RCNN算法：
+### 3、目标检测，支持Faster RCNN 和Mask RCNN算法：
 ![demo image](image/3.png)
 
 Mask RCNN 检测结果
 
-### 物体及人体关键点检测：
+### 4、物体及人体关键点检测：
 ![demo image](image/4.png)
 
-### 图像分割，UNet算法的分割结果：
+### 5、图像分割，UNet算法的分割结果：
 ![demo image](image/5.png)
 
-### 动作识别，对视频中人物动作进行分类：
+### 6、动作识别，对视频中人物动作进行分类：
 ![demo image](image/6.gif)
 
 R(2+1)D算法效果
 
-### 多目标跟踪：
+### 7、多目标跟踪：
 ![demo image](image/7.gif)
 
 FairMOT跟踪效果
 
-### 拥挤人群计数：
+### 8、拥挤人群计数：
 ![demo image](image/8.png)
 
+该库样例丰富，使用简单，目前已经有超过4K星标，欢迎使用，也期待有更多实用CV算法加进来~
 
-[开源地址](https://github.com/microsoft/computervision-recipes)
+computervision-recipes：[开源地址](https://github.com/microsoft/computervision-recipes)
 
