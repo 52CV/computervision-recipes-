@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="images/52CV.gif" width="600"/>
+  <img src="image/52CV.gif" width="600"/>
 </div>
 
 # computervision-recipes-
@@ -24,36 +24,36 @@ computervision-recipes 库使用 PyTorch  Fast.ai 开发，提供了丰富的 Ju
 
 ### 图像分类，支持单目标和多目标分类：
 
-![demo image](images/1.png)
+![demo image](image/1.png)
 
 ### 图像相似度计算，在图像库中找到相似性高的物体，可用于图像检索：
-![demo image](images/2.png)
+![demo image](image/2.png)
 
 BMVC 2019 论文 Classification is a Strong Baseline for Deep Metric Learning 效果
 
 ### 目标检测，支持Faster RCNN 和Mask RCNN算法：
-![demo image](images/3.png)
+![demo image](image/3.png)
 
 Mask RCNN 检测结果
 
 ### 物体及人体关键点检测：
-![demo image](images/4.png)
+![demo image](image/4.png)
 
 ### 图像分割，UNet算法的分割结果：
-![demo image](images/5.png)
+![demo image](image/5.png)
 
 ### 动作识别，对视频中人物动作进行分类：
-![demo image](images/6.gif)
+![demo image](image/6.gif)
 
 R(2+1)D算法效果
 
 ### 多目标跟踪：
-![demo image](images/7.gif)
+![demo image](image/7.gif)
 
 FairMOT跟踪效果
 
 ### 拥挤人群计数：
-![demo image](images/8.png)
+![demo image](image/8.png)
 
 
 [开源地址](https://github.com/microsoft/computervision-recipes)
